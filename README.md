@@ -24,7 +24,7 @@ Instalação :
 ------
 Você quer tirar suas dúvidas sobre algo que eu postei no github ?
 ```
-[+] Discord : Marcola#1337
+[+] Discord : Marcola#0001
 ```
 
 <br>©2022 Marcola
